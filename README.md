@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/nagatejasharaf832/nagateja_profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Nagatheja Profile
+Hello
+I am Sharaf Nagatheja, pursuing masters degree from Indiana University Bloomington, also has experience as software developer focusing on backend technologies
 
 ### Markdown
 
