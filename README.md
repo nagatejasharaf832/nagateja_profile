@@ -1,35 +1,66 @@
-## Welcome to Nagatheja Profile
-Hello
-I am Sharaf Nagatheja, pursuing masters degree from Indiana University Bloomington, also has experience as software developer focusing on backend technologies
+<div align="center">
+  <img alt="Logo" src="https://github.com/nagatejasharaf832/nagateja_profile/blob/code/src/images/logo.png" width="100" />
+</div>
+<h1 align="center">
+  Portfolio Website Version 2
+</h1>
+<p align="center">
+  The second iteration of <a href="https://nagatejasharaf832.github.io/" target="_blank">nagateja_profile.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
+</p>
 
-### Markdown
+### TL;DR
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Yes, you can fork this repo. Please give proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
-```markdown
-Syntax highlighted code block
+## 🛠 Installation & Set Up
 
-# Header 1
-## Header 2
-### Header 3
+1. Install the Gatsby CLI
 
-- Bulleted
-- List
+   ```sh
+   npm install -g gatsby-cli
+   ```
 
-1. Numbered
-2. List
+2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
-**Bold** and _Italic_ and `Code` text
+   ```sh
+   nvm install
+   ```
 
-[Link](url) and ![Image](src)
-```
+3. Install dependencies
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+   ```sh
+   yarn
+   ```
 
-### Jekyll Themes
+4. Start the development server
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nagatejasharaf832/nagateja_profile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+   ```sh
+   npm start
+   ```
 
-### Support or Contact
+## 🚀 Building and Running for Production
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Generate a full static production build
+
+   ```sh
+   npm run build
+   ```
+
+1. Preview the site as it will appear once deployed
+
+   ```sh
+   npm run serve
+   ```
+
+## 🎨 Color Reference
+
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
+| Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
+| Light Navy     | ![#172a45](https://via.placeholder.com/10/0a192f?text=+) `#172a45` |
+| Lightest Navy  | ![#303C55](https://via.placeholder.com/10/303C55?text=+) `#303C55` |
+| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
+| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
+| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
+| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
+| Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
